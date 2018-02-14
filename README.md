@@ -1,2 +1,1 @@
-# style
-Web style guides
+# Web style guides
